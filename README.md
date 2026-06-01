@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Products REST API
 
 REST API sederhana untuk mengelola data produk menggunakan ExpressJS dan SQLite.
@@ -74,3 +75,6 @@ curl -X PUT http://localhost:3000/api/products/1 \
 # Hapus produk
 curl -X DELETE http://localhost:3000/api/products/1
 ```
+=======
+# Backend-C
+>>>>>>> 2844630820311c5d8980fc0575da2f4770ae3427
